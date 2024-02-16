@@ -48,8 +48,8 @@ This project aims to provide an affordable and scalable BI solution that will en
 
 Team Members:
 
-RAKESH MORATHOTI
-RAVITEJA VAVILALA
+RAKESH MORATHOTI,
+RAVITEJA VAVILALA,
 VENKATA SHIVA MAVURI
 
 
